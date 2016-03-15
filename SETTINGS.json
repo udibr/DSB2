@@ -1,0 +1,7 @@
+{
+  "TRAIN_DATA_PATH": "data/train",
+  "VALID_DATA_PATH": "data/validate",
+  "TEST_DATA_PATH": "data/test",
+  "OUT_DATA_PATH": "s3://<your-S3-bucket>",
+  "TEMP_DATA_PATH": "/tmp"
+}
